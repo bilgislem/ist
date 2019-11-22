@@ -5,9 +5,9 @@ title: Personal Homepage of foo boo
 description: "Blogging on ...."
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## [Bilgi işlem Online](https://github.com/bilgislem/ist)
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
+Selam
 
 * add-ons by [Samir Amin](http://sbamin.com)
 * [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
