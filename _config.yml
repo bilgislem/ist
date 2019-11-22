@@ -10,7 +10,7 @@ title:       Bilgi işlem online
 #tagline:             'foo's website
 description:         Foo's blog...
 url: http://http://bilgiislem.online/ist
-baseurl: "/"
+#baseurl: "/"
 urlimg: http://bilgiislem.online/ist/images/
 markdown: kramdown
 paginate: 5
