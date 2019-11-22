@@ -6,7 +6,7 @@ permalink: /blog/:year/:month/:day/:title/
 relative_permalinks: false
 
 # Setup
-title:               foo
+title:               Bilgi işlem <font color="green">Online</font>
 #tagline:             'foo's website
 description:         Foo's blog...
 url: http://http://bilgiislem.online/ist/
