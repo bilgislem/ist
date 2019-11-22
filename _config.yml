@@ -9,7 +9,7 @@ relative_permalinks: false
 title:       Bilgi işlem online        
 #tagline:             'foo's website
 description:         Foo's blog...
-url: http://http://bilgiislem.online/ist/
+url: http://http://bilgiislem.online/ist
 baseurl: "/"
 urlimg: http://bilgiislem.online/ist/images/
 markdown: kramdown
